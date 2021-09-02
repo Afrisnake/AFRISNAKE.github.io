@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-My full resume can be found [**here**](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf)
+My full resume can be found [**<ins>here</ins>**](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf)
 
 
 ## Current Work
