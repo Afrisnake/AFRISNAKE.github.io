@@ -24,7 +24,6 @@ Edanz Group Limited, Fukuoka, Japan
 `Jan 2008 - Dec 2012`
 __Temporary Lecturer__\
 Rhodes University, Makhanda/Grahamstown, South Africa
-
 I lectured various courses and supervised projects and theses in the following departments:
 - Zoology and Entomology
 - Botany
