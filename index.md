@@ -10,11 +10,11 @@ I am a wonder-filled and passionate biological scientist turned teacher of the p
 ## Interests and Projects
 
 - Data Science
-[Github pages]
+  -[Github pages]
 - Python Coding
-[Github pages]
+  -[Github pages]
 - Herpetology
-An award-winning paper on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x)
-An East African snake species has been named in my honour : [*Psammophylax kellyi*](https://reptile-database.reptarium.cz/species?genus=Psammophylax&species=kellyi)
+  -An award-winning paper on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x)
+  -An East African snake species has been named in my honour : [*Psammophylax kellyi*](https://reptile-database.reptarium.cz/species?genus=Psammophylax&species=kellyi)
 - Evolutionary Biology
 
