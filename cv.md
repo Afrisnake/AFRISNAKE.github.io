@@ -4,8 +4,8 @@ layout: resume
 
 My full resume is available here: [**<ins>CMR Kelly Resume</ins>**](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}
 
-Alt resume: <img src="https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/images/Psamm_kellyi.jpg"
-height="300">
+Alt resume: ![](<img src="https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/images/Psamm_kellyi.jpg"
+height="50">)
 
 ## Current Work
 
