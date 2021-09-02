@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-My full resume can be found here (link)
+My full resume can be found [here](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf)
 
 
 ## Current Work
@@ -44,11 +44,11 @@ DPhil (Molecular Systematics)
 
 `Jan 2000 - Dec 2000`
 __Rhodes University__\
-BSc (Hons) (*cum laude*, Zoology)
+BSc (Hons) (_cum laude_, Zoology)
 
 `Jan 1997 - Dec 1999`
 __Rhodes University__\
-BSc (*cum laude*, Zoology and Biocheistry)
+BSc (_cum laude_, Zoology and Biocheistry)
 
 
 ## Awards and Honours ![image](https://user-images.githubusercontent.com/84908213/131840409-5b02eef2-fa3b-41ea-b41d-69f52cb95872.png)
