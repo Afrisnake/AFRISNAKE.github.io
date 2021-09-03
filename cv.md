@@ -57,8 +57,7 @@ BSc (_cum laude_, Zoology and Biochemistry)
 - ***Psammophylax kellyi*** (Tanzanian Grass Snake): East African snake species named in my honour
 
 `2010`
-- **Joseph B. Slowinski Award** (Center for North American Herpetology) acknowledging the most distinguished paper on snake systematics to be published globally in 2009 (judged by an international panel of experts)\
-Kelly, C. M. R. et al. (2009) Cladistics 25:38-63
+- **Joseph B. Slowinski Award** (Center for North American Herpetology) acknowledging the most distinguished paper on snake systematics to be published globally in 2009 (judged by an international panel of experts)<br/>Kelly, C. M. R. et al. (2009) _Cladistics_ 25:38-63
 
 `2001`
 - **Rhodes Scholarship** (Zimbabwe Constituency). Funds awarded by the Rhodes Trust for study at Oxford University, on the basis of academic merit, leadership potential and service to society<br/>
