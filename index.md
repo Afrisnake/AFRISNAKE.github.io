@@ -8,7 +8,7 @@ I am a wonder-filled and passionate biological scientist turned teacher of the p
 Moving forward, my ambition is to manoeuvre into a scientifically oriented data science niche.
 
 
-## Interests and Projects ![image]![image](https://user-images.githubusercontent.com/84908213/131983665-45c6ad93-4650-4c8f-9f76-faf2bb66dc2d.png)
+## Interests and Projects ![image](https://user-images.githubusercontent.com/84908213/131983665-45c6ad93-4650-4c8f-9f76-faf2bb66dc2d.png)
 
 - Data Science
     - [Github pages]<br/>
@@ -17,7 +17,7 @@ Moving forward, my ambition is to manoeuvre into a scientifically oriented data 
     - [Github pages]<br/>
 <br/>
 - Herpetology
-    - One of my papers on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} which won a major award
+    - One of my papers on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} which has won a major award
     - An East African snake species has been named in my honour: [_Psammophylax kellyi_](https://reptile-database.reptarium.cz/species?genus=Psammophylax&species=kellyi){:target="_blank"}<br/>
 <br/>
 - Evolutionary Biology
