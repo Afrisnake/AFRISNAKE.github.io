@@ -5,13 +5,12 @@ layout: resume
 My full resume is available here: [**<ins>Chris Kelly Resume</ins>**](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}
 
 
-## Currently ![image](https://user-images.githubusercontent.com/84908213/131848666-4ae63020-dc5b-41b0-951e-e772797f17a7.png)
+## ![image](https://user-images.githubusercontent.com/84908213/131848666-4ae63020-dc5b-41b0-951e-e772797f17a7.png)  Currently 
 
 Actively studying [**<ins>Python coding</ins>** and **<ins>Data Science</ins>**](https://afrisnake.github.io/courses/)
 
 
-## Employment ![image](https://user-images.githubusercontent.com/84908213/131842805-85951cdd-b01d-4e44-b27b-c98bccdd6754.png)
-
+## ![image](https://user-images.githubusercontent.com/84908213/131842805-85951cdd-b01d-4e44-b27b-c98bccdd6754.png)  Employment
 
 `Jan 2013 - Dec 2020`
 __Teacher (Head of Physical Sciences)__<br/>
@@ -36,7 +35,7 @@ Rhodes University, Makhanda/Grahamstown, South Africa<br/>
 (Molecular Ecology and Systematics Research Group)
 
 
-## Education ![image](https://user-images.githubusercontent.com/84908213/131839590-21addf9d-a7a0-4d60-ad74-97f47b52089b.png)
+## ![image](https://user-images.githubusercontent.com/84908213/131839590-21addf9d-a7a0-4d60-ad74-97f47b52089b.png)  Education 
 
 `Sept 2001 - Sept 2005`
 __Oxford University (Merton College)__<br/>
@@ -51,7 +50,7 @@ __Rhodes University__<br/>
 BSc (_cum laude_, Zoology and Biochemistry)
 
 
-## Awards and Honours ![image](https://user-images.githubusercontent.com/84908213/131840409-5b02eef2-fa3b-41ea-b41d-69f52cb95872.png)
+## ![image](https://user-images.githubusercontent.com/84908213/131840409-5b02eef2-fa3b-41ea-b41d-69f52cb95872.png)  Awards and Honours
 
 `2019`
 - ***Psammophylax kellyi*** (Tanzanian Grass Snake): East African snake species named in my honour
