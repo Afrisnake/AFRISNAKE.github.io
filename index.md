@@ -7,7 +7,7 @@ I am a wonder-filled and passionate biological scientist turned teacher of the p
 
 Moving forward, my ambition is to manoeuvre into a scientifically oriented data science niche.
 
-## Interests and Projects
+## Interests and Projects ![image](https://user-images.githubusercontent.com/84908213/132063423-3d9ceb18-fa99-40a9-8a80-129d1d56da95.png)
 
 ### Data Science
 - [Github pages]
