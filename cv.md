@@ -14,40 +14,41 @@ Actively studying **Python coding** and **Data Science**
 
 
 `Jan 2013 - Dec 2020`
-__Teacher (Head of Physical Sciences)__\
+__Teacher (Head of Physical Sciences)__<br/>
 Graeme College, Makhanda/Grahamstown, South Africa
 
 `Jan 2012 - Dec 2012`
-__Freelance Scientific Editor__\
+__Freelance Scientific Editor__<br/>
 Edanz Group Limited, Fukuoka, Japan
 
 `Jan 2008 - Dec 2012`
-__Temporary Lecturer__\
-Rhodes University, Makhanda/Grahamstown, South Africa\
+__Temporary Lecturer__<br/>
+Rhodes University, Makhanda/Grahamstown, South Africa<br/>
+<br/>
 I lectured various courses and supervised projects and theses in the following departments:
 - Zoology and Entomology
 - Botany
 - Biochemistry, Microbiology and Biotechnology
 
 `Jan 2007 - Dec 2011`
-__Postdoctoral Research Fellow__\
-Rhodes University, Makhanda/Grahamstown, South Africa\
+__Postdoctoral Research Fellow__<br/>
+Rhodes University, Makhanda/Grahamstown, South Africa<br/>
 (Molecular Ecology and Systematics Research Group)
 
 
 ## Education ![image](https://user-images.githubusercontent.com/84908213/131839590-21addf9d-a7a0-4d60-ad74-97f47b52089b.png)
 
 `Sept 2001 - Sept 2005`
-__Oxford University (Merton College)__\
+__Oxford University (Merton College)__<br/>
 DPhil (Molecular Systematics)
 
 `Jan 2000 - Dec 2000`
-__Rhodes University__\
-BSc (Hons) (*cum laude*, Zoology)
+__Rhodes University__<br/>
+BSc (Hons) (_cum laude_, Zoology)
 
 `Jan 1997 - Dec 1999`
-__Rhodes University__\
-BSc (_cum laude_, Zoology and Biocheistry)
+__Rhodes University__<br/>
+BSc (_cum laude_, Zoology and Biochemistry)
 
 
 ## Awards and Honours ![image](https://user-images.githubusercontent.com/84908213/131840409-5b02eef2-fa3b-41ea-b41d-69f52cb95872.png)
@@ -62,6 +63,7 @@ Kelly, C. M. R. et al. (2009) Cladistics 25:38-63
 `2001`
 - **Rhodes Scholarship** (Zimbabwe Constituency). Funds awarded by the Rhodes Trust for study at Oxford University, on the basis of academic merit, leadership potential and service to society<br/>
 
+`2001`
 - **South African National Research Foundation Prestigious Scholarship**
 
 
