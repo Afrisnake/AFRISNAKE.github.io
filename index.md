@@ -9,7 +9,6 @@ Moving forward, my ambition is to manoeuvre into a scientifically oriented data 
 
 
 ## Interests and Projects ![image](https://user-images.githubusercontent.com/84908213/131989244-257dcb60-11e9-4585-b1f9-bb7f4e58b898.png)
-
 - Data Science
     - [Github pages]<br/>
 <br/>
