@@ -9,17 +9,20 @@ Moving forward, my ambition is to manoeuvre into a scientifically oriented data 
 
 
 ## Interests and Projects ![image](https://user-images.githubusercontent.com/84908213/131989244-257dcb60-11e9-4585-b1f9-bb7f4e58b898.png)
-- **Data Science**
-    - [Github pages](https://github.com/Afrisnake/Coding-Blackjack-in-Python)<br/>
+- **Data Science**<br/><br/>
+    - [Github pages]<br/>
 <br/>
-- **Python Coding**
-    - **Games**
-          - [Blackjack](https://github.com/Afrisnake/Coding-Blackjack-in-Python)<br/>
-          - [Noughts and Crosses](https://github.com/Afrisnake/Coding-Noughts-and-Crosses-in-Python)<br/>
+- **Python Coding**<br/>
 <br/>
-- **Herpetology**<br/><br/>
+    - Games<br/>
+          - [_Blackjack_](https://github.com/Afrisnake/Coding-Blackjack-in-Python)<br/>
+          - [_Noughts and Crosses_](https://github.com/Afrisnake/Coding-Noughts-and-Crosses-in-Python)<br/>
+<br/>
+- **Herpetology**<br/>
+<br/>
     - One of my papers on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} which has won a major award<br/><br/>
     - An East African snake species has been named in my honour: [_Psammophylax kellyi_](https://reptile-database.reptarium.cz/species?genus=Psammophylax&species=kellyi){:target="_blank"}<br/>
 <br/>
-- **Evolutionary Biology**<br/><br/>
+- **Evolutionary Biology**<br/>
+<br/>
 
