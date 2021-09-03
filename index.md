@@ -6,9 +6,10 @@ excerpt: "About Me..."
 I am a wonder-filled and passionate biological scientist turned teacher of the physical sciences, and now shifting to a data science career. I have over 12 years of direct data experience; my former research illuminated the population dynamics and evolution of different groups of snakes in time and space, via generation and analysis of large genetic sequence data sets and integration of evolutionary information with geographic data.
 
 Moving forward, my ambition is to manoeuvre into a scientifically oriented data science niche.
+<img src="//www.willmaster.com/images/20000710w80h80.jpg"
+   style="position:absolute; top:-10px; left:-30px; width:80px; height:80px; border:none;"
 
-
-## Interests and Projects ![image](https://user-images.githubusercontent.com/84908213/131989244-257dcb60-11e9-4585-b1f9-bb7f4e58b898.png)
+## Interests and Projects <img src="https://user-images.githubusercontent.com/84908213/131989244-257dcb60-11e9-4585-b1f9-bb7f4e58b898.png" style="position:absolute; top:-10px; left:-30px" alt="snake leaf design" />
 - **Data Science**<br/><br/>
     - [Github pages]<br/>
 <br/>
