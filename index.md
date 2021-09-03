@@ -10,10 +10,12 @@ Moving forward, my ambition is to manoeuvre into a scientifically oriented data 
 
 ## Interests and Projects ![image](https://user-images.githubusercontent.com/84908213/131989244-257dcb60-11e9-4585-b1f9-bb7f4e58b898.png)
 - **Data Science**
-    - [Github pages]<br/>
+    - [Github pages](https://github.com/Afrisnake/Coding-Blackjack-in-Python)<br/>
 <br/>
 - **Python Coding**
-    - [Github pages]<br/>
+    - **Games**
+          - [Blackjack](https://github.com/Afrisnake/Coding-Blackjack-in-Python)<br/>
+          - [Noughts and Crosses](https://github.com/Afrisnake/Coding-Noughts-and-Crosses-in-Python)<br/>
 <br/>
 - **Herpetology**<br/><br/>
     - One of my papers on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} which has won a major award<br/><br/>
