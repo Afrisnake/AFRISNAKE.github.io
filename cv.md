@@ -2,14 +2,12 @@
 layout: resume
 ---
 
-My full resume is available here: [**<ins>CMR Kelly Resume</ins>**](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}
+My full resume is available here: [**<ins>Chris Kelly Resume</ins>**](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}
 
-Alt resume: ![](<img src="https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/images/Psamm_kellyi.jpg"
-height="50">)
 
-## Current Work
+## Currently
 
-Freelance Data Scientist
+Actively studying **Python coding** and **Data Science**
 
 
 ## Employment ![image](https://user-images.githubusercontent.com/84908213/131842805-85951cdd-b01d-4e44-b27b-c98bccdd6754.png)
@@ -45,7 +43,7 @@ DPhil (Molecular Systematics)
 
 `Jan 2000 - Dec 2000`
 __Rhodes University__\
-BSc (Hons) (_cum laude_, Zoology)
+BSc (Hons) (*cum laude*, Zoology)
 
 `Jan 1997 - Dec 1999`
 __Rhodes University__\
@@ -55,15 +53,15 @@ BSc (_cum laude_, Zoology and Biocheistry)
 ## Awards and Honours ![image](https://user-images.githubusercontent.com/84908213/131840409-5b02eef2-fa3b-41ea-b41d-69f52cb95872.png)
 
 `2019`
-- East African snake species named in my honour:  _Psammophylax kellyi_ (Tanzanian Grass Snake)
+- ***Psammophylax kellyi*** (Tanzanian Grass Snake): East African snake species named in my honour
 
 `2010`
-- Joseph B. Slowinski Award (Center for North American Herpetology) acknowledging the most distinguished paper on snake systematics to be published globally in 2009 (judged by an international panel of experts)\
+- **Joseph B. Slowinski Award** (Center for North American Herpetology) acknowledging the most distinguished paper on snake systematics to be published globally in 2009 (judged by an international panel of experts)\
 Kelly, C. M. R. et al. (2009) Cladistics 25:38-63
 
 `2001`
-- Rhodes Scholarship (Zimbabwe Constituency). Funds awarded by the Rhodes Trust for study at Oxford University, on the basis of academic merit, leadership potential and service to society.
-- South African National Research Foundation Prestigious Scholarship
+- **Rhodes Scholarship** (Zimbabwe Constituency). Funds awarded by the Rhodes Trust for study at Oxford University, on the basis of academic merit, leadership potential and service to society\
+- **South African National Research Foundation Prestigious Scholarship**
 
 
 <!-- ### Footer
