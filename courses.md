@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coursework
+title: Courses
 ---
 
 Text goes here
