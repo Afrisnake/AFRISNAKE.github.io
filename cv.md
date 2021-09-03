@@ -7,7 +7,7 @@ My full resume is available here: [**<ins>Chris Kelly Resume</ins>**](https://gi
 
 ## Currently ![image](https://user-images.githubusercontent.com/84908213/131848666-4ae63020-dc5b-41b0-951e-e772797f17a7.png)
 
-Actively studying **Python coding** and **Data Science**
+Actively studying [**Python coding** and **Data Science**](https://afrisnake.github.io/courses/)
 
 
 ## Employment ![image](https://user-images.githubusercontent.com/84908213/131842805-85951cdd-b01d-4e44-b27b-c98bccdd6754.png)
