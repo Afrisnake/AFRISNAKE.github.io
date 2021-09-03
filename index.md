@@ -10,13 +10,22 @@ Moving forward, my ambition is to manoeuvre into a scientifically oriented data 
 ## Interests and Projects
 
 ### Data Science
+
 - [Github pages]
+
 ### Python Coding
+
 - Games
+
     - [_Blackjack_](https://github.com/Afrisnake/Coding-Blackjack-in-Python)
+
     - [_Noughts and Crosses_](https://github.com/Afrisnake/Coding-Noughts-and-Crosses-in-Python)
+
 ### Herpetology
+
 - One of my papers on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} which has won a major award
+
 - An East African snake species has been named in my honour: [_Psammophylax kellyi_](https://reptile-database.reptarium.cz/species?genus=Psammophylax&species=kellyi){:target="_blank"}
+
 ### Evolutionary Biology
 
