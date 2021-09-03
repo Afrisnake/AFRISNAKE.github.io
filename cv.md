@@ -60,7 +60,8 @@ BSc (_cum laude_, Zoology and Biocheistry)
 Kelly, C. M. R. et al. (2009) Cladistics 25:38-63
 
 `2001`
-- **Rhodes Scholarship** (Zimbabwe Constituency). Funds awarded by the Rhodes Trust for study at Oxford University, on the basis of academic merit, leadership potential and service to society\
+- **Rhodes Scholarship** (Zimbabwe Constituency). Funds awarded by the Rhodes Trust for study at Oxford University, on the basis of academic merit, leadership potential and service to society<br/>
+
 - **South African National Research Foundation Prestigious Scholarship**
 
 
