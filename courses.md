@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-My ambition is to manoeuvre into a scientifically oriented data science niche. To add to the skills transferrable from my academic background, I am actively studying to gain the additional capabilities necessary for such a position.
+I am using the following materials to augment the Data Science skill set transferrable from my academic background.  
 
 ## ![image](https://user-images.githubusercontent.com/84908213/131991150-4fced03e-2ca3-4060-b724-28d65194d643.png)  Courses
 
