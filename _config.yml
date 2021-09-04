@@ -8,13 +8,13 @@ logo: # Some relevant image file
 owner:
   name: Chris Kelly
   avatar: bio-photo.jpg
-  bio: "Herpetologist, Evolutionary biologist, Data scientist. Fascinated by the beauty, mystery and intricacy of God's creation and the power of data to illuminate it."
+  bio: "Data Scientist, Herpetologist, Evolutionary Biologist. Fascinated by the beauty, mystery and intricacy of God's creation and the power of data to illuminate it."
   email: c.m.r.kelly@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: 
   linkedin: christopher-kelly-afrisnake
   github: Afrisnake
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-2579-5976
   researchgate: #username
   mendeley: #username
   google:
