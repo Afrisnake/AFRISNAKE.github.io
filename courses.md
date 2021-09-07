@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-I am using the following materials to augment the Data Science skill set transferrable from my academic background.  
+I am using the following materials to augment the Data Science skills transferrable from my academic background.  
 
 ## ![image](https://user-images.githubusercontent.com/84908213/131991150-4fced03e-2ca3-4060-b724-28d65194d643.png)  Courses
 
