@@ -16,8 +16,8 @@ I have always been enthused by the power and utility of data when judiciously pr
 - [_Noughts and Crosses_](https://github.com/Afrisnake/Coding-Noughts-and-Crosses-in-Python) (Portfolio piece - Games)
 
 ### Herpetology
-- One of my papers on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} (winner of a major international award)
+- A highly-cited collaborative paper on [best practices in herpetological taxonomy](https://wlv.openrepository.com/bitstream/handle/2436/621767/Herpetological%20Review.pdf){:target="_blank"} 
 - An East African snake species has been named in my honour: [_Psammophylax kellyi_](https://reptile-database.reptarium.cz/species?genus=Psammophylax&species=kellyi){:target="_blank"}
 
 ### Evolutionary Biology
-
+- One of my papers on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} (winner of a major international award)
