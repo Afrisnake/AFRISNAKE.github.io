@@ -9,7 +9,7 @@ I have always been enthused by the power and utility of data when judiciously pr
 
 ## <img src="https://user-images.githubusercontent.com/84908213/132064904-8e3e53a4-140c-431d-9b0f-421f388060a2.png" style="position:relative; top:-10px" alt="snake leaf design" />  Interests and Projects 
 ### Data Science
-- [iNaturalist Scraper and Data Pipeline](https://github.com/Afrisnake/iNaturalist-Scraper-and-Data-Pipeline)
+- [iNaturalist Scraper and Data Pipeline](https://github.com/Afrisnake/iNaturalist-Scraper-and-Data-Pipeline) (Portfolio project)
 
 ### Python Coding
 - [Blackjack](https://github.com/Afrisnake/Coding-Blackjack-in-Python) (Portfolio piece - Games)
