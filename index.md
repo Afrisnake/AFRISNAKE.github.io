@@ -12,9 +12,8 @@ I have always been enthused by the power and utility of data when judiciously pr
 - [_iNaturalist Scraper and Data Pipeline_](https://github.com/Afrisnake/iNaturalist-Scraper-and-Data-Pipeline)
 
 ### Python Coding
-- Games (Portfolio pieces)
-    - [_Blackjack_](https://github.com/Afrisnake/Coding-Blackjack-in-Python)
-    - [_Noughts and Crosses_](https://github.com/Afrisnake/Coding-Noughts-and-Crosses-in-Python)
+- [_Blackjack_](https://github.com/Afrisnake/Coding-Blackjack-in-Python) (Portfolio piece - Games)
+- [_Noughts and Crosses_](https://github.com/Afrisnake/Coding-Noughts-and-Crosses-in-Python) (Portfolio piece - Games
 
 ### Herpetology
 - One of my papers on [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} (winner of a major international award)
