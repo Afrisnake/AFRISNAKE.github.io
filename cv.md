@@ -4,7 +4,7 @@ layout: resume
 
 My full resume is available here: [**<ins>Chris Kelly Resume</ins>**](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}<br/><br/>
 
-**Read on for an abbreviated summary:**<br/>
+**Read on for an abbreviated summary:**<br/><br/>
 
 
 ## ![image](https://user-images.githubusercontent.com/84908213/131848666-4ae63020-dc5b-41b0-951e-e772797f17a7.png)  Currently 
