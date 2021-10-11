@@ -8,9 +8,8 @@ I am a wonder-filled and passionate Biological Scientist, Data Scientist and Tea
 I have always been enthused by the power and utility of data when judiciously processed and interpreted, and Data Science is now my professional focus.
 
 ## <img src="https://user-images.githubusercontent.com/84908213/132064904-8e3e53a4-140c-431d-9b0f-421f388060a2.png" style="position:relative; top:-10px" alt="snake leaf design" />  Professional Interests and Projects
-_________________________________________________________________________
 
-### Evolutionary Biology
+#### Evolutionary Biology
 - One of my papers investigating the patterns and tempo of [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} (winner of a major international award)
 
 ### Herpetology
