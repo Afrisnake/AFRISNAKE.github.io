@@ -1,6 +1,5 @@
 ---
-layout: page
-excerpt: "Profile"
+layout: resume
 ---
 
 I am a wonder-filled and passionate Biological Scientist, Data Scientist and Teacher with over 12 years of direct data experience, and scientific contributions ranging from academic research to science education at tertiary to grassroots levels. My research illuminated the population dynamics and evolution of different groups of snakes in time and space, via generation and analysis of large genetic sequence data sets and integration of evolutionary information with geographic data.
