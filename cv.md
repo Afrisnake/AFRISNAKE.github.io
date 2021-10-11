@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page
 ---
 
 My full resume is available here: [**<ins>Chris Kelly Resume</ins>**](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}<br/><br/>
