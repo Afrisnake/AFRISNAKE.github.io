@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page
 ---
 
 I am a wonder-filled and passionate Biological Scientist, Data Scientist and Teacher with over 12 years of direct data experience, and scientific contributions ranging from academic research to science education at tertiary to grassroots levels. My research illuminated the population dynamics and evolution of different groups of snakes in time and space, via generation and analysis of large genetic sequence data sets and integration of evolutionary information with geographic data.
@@ -7,14 +7,14 @@ I am a wonder-filled and passionate Biological Scientist, Data Scientist and Tea
 I have always been enthused by the power and utility of data when judiciously processed and interpreted, and Data Science is now my professional focus.
 
 # <img src="https://user-images.githubusercontent.com/84908213/132064904-8e3e53a4-140c-431d-9b0f-421f388060a2.png" style="position:relative; top:-10px" alt="snake leaf design" />  Professional Interests and Projects
-## Evolutionary Biology
+### Evolutionary Biology
 - One of my papers investigating the patterns and tempo of [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} (winner of a major international award)
-## Herpetology
+### Herpetology
 - A highly-cited collaborative paper that I coauthored, on [best practices in herpetological taxonomy](https://wlv.openrepository.com/bitstream/handle/2436/621767/Herpetological%20Review.pdf){:target="_blank"} 
 - An East African snake species has been named in my honour: [_Psammophylax kellyi_](https://reptile-database.reptarium.cz/species?genus=Psammophylax&species=kellyi){:target="_blank"}
-## Data Science
+### Data Science
 - [iNaturalist Scraper and Data Pipeline](https://github.com/Afrisnake/iNaturalist-Scraper-and-Data-Pipeline) (Portfolio project)
-## Python Coding
+### Python Coding
 - [Blackjack](https://github.com/Afrisnake/Coding-Blackjack-in-Python) (Portfolio piece - Games)
 - [Noughts and Crosses](https://github.com/Afrisnake/Coding-Noughts-and-Crosses-in-Python) (Portfolio piece - Games)
 
