@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Portfolio<br/>Data Science and Coding
+title: Christopher M R Kelly
 locale: en_GB
 logo: # Some relevant image file
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Chris Kelly
+  name:
   avatar: bio-photo.jpg
   bio: "Data Scientist, Herpetologist, Evolutionary Biologist. Fascinated by the beauty, mystery and intricacy of God's creation and the power of data to illuminate it."
   email: c.m.r.kelly@gmail.com
