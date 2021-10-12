@@ -9,7 +9,7 @@ I have always been enthused by the power and utility of data when judiciously pr
 ## <img src="https://user-images.githubusercontent.com/84908213/132064904-8e3e53a4-140c-431d-9b0f-421f388060a2.png" style="position:relative; top:-10px" alt="snake leaf design" />  Professional Interests and Projects
 
 ### Systematics, Evolutionary Biology, Herpetology
-Whilst research is no longer my full-time pursuit, I still collaborate on various projects and have a first-author paper in preparation on systematics of the African Adders - Old mountains and new species: the radiation of southern African dwarf adders (_Bitis_, Serpentes: Viperidae). Please see my Orcid profile (linked to this page) for a full list of my academic contributions. A few key examples are provided below.
+Whilst research is no longer my full-time pursuit, I still collaborate on various projects and have a first-author paper in preparation on systematics of the African Adders - Old mountains and new species: the radiation of southern African dwarf adders (_Bitis_, Serpentes: Viperidae). Please see my [Orcid profile](https://orcid.org/0000-0002-2579-5976) for a full list of my academic contributions. A few key examples are provided below.
 
 - One of my papers investigating the patterns and tempo of [snake evolution](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1096-0031.2008.00237.x){:target="_blank"} (winner of a major international award)
 - A highly-cited collaborative paper that I coauthored, on [best practices in herpetological taxonomy](https://wlv.openrepository.com/bitstream/handle/2436/621767/Herpetological%20Review.pdf){:target="_blank"} 
