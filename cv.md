@@ -2,9 +2,9 @@
 layout: resume
 ---
 
-My full resume is available here: [Chris Kelly Resume](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}<br/><br/>
+My full resume is available here: [Chris Kelly Resume](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}<br/>
 
-Read on for an **abbreviated summary**:<br/><br/>
+Read on for an **abbreviated summary**:<br/>
 
 
 ## ![image](https://user-images.githubusercontent.com/84908213/131848666-4ae63020-dc5b-41b0-951e-e772797f17a7.png)  Currently 
