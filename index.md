@@ -18,7 +18,7 @@ Whilst research is no longer my full-time pursuit, I still collaborate on variou
 ### Data Science
 Data is the currency of the future, and its prudent analysis and interpretation are key to understanding the vast sweep of physical reality. It is the raw material by which proximate truth may ultimately be discerned, while conversely its misuse enables compelling deception. A rich and rapidly evolving ecosystem of data science theory, methods and technologies has emerged, sustained by the prodigious volumes of data generated across the landscape of human endeavour, and delivering robust solutions to real-world problems and a deep understanding of physical phenomena. I am manoeuvring into a natural sciences oriented niche of this ecosystem, and am currently working on a portfolio of projects to demonstrate essential skills, as follows: 
  
-- [iNaturalist Scraper and Data Pipeline](https://github.com/Afrisnake/iNaturalist-Scraper-and-Data-Pipeline)
+- [iNaturalist Scraper and Data Pipeline](https://github.com/Afrisnake/iNaturalist-Scraper-and-Data-Pipeline) (web-scraping app for iNaturalist.org)
 
 ### Python Coding
 For the first time in more than 20 years, Python has overtaken Java, JavaScript, and C as the most popular programming language (according to the October 2021 release of the Tiobe index). As the dominant language for data science, not to mention the enticingly herpetological ring to its name, it has been the subject of much of my current skills development. The following are a few portfolio pieces produced along my Python journey so far.
