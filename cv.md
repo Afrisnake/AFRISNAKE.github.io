@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-My full resume is available here: [**<ins>Chris Kelly Resume</ins>**](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}<br/><br/>
+My full resume is available here: [Chris Kelly Resume](https://github.com/Afrisnake/AFRISNAKE.github.io/blob/master/Kelly_CMR_Resume_General.pdf){:target="_blank"}<br/><br/>
 
 Read on for an **abbreviated summary**:<br/><br/>
 
@@ -11,7 +11,7 @@ Read on for an **abbreviated summary**:<br/><br/>
 
 **Freelance Data Scientist**
 
-Actively studying [**<ins>Python coding</ins>** and **<ins>Data Science</ins>**](https://afrisnake.github.io/courses/)
+Actively studying [Python coding](https://afrisnake.github.io/courses/) and [Data Science](https://afrisnake.github.io/courses/)
 
 
 ## ![image](https://user-images.githubusercontent.com/84908213/131842805-85951cdd-b01d-4e44-b27b-c98bccdd6754.png)  Employment
