@@ -26,3 +26,7 @@ _Currently enrolled_
 - [The Ultimate Hands-On Hadoop: Tame Your Big Data!](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/){:target="_blank"}<br/>
 Frank Kane, Sundog Education<br/>
 _Currently enrolled_
+
+- [W3schools SQL Tutorial](https://www.w3schools.com/sql/default.asp){:target="_blank"}<br/>
+w3schools educational content, Refsnes Data<br/>
+_Currently enrolled_
