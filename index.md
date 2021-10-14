@@ -21,7 +21,7 @@ Data is the currency of the future, and its prudent analysis and interpretation 
 - [iNaturalist Scraper and Data Pipeline](https://github.com/Afrisnake/iNaturalist-Scraper-and-Data-Pipeline) (web-scraping app for iNaturalist.org)
 
 ### Python Coding
-For the first time in more than 20 years, Python has overtaken Java, JavaScript, and C as the most popular programming language (according to the October 2021 release of the Tiobe index). As the dominant language for data science, not to mention the enticingly herpetological ring to its name, it has been the subject of much of my current skills development. The following are a few portfolio pieces produced along my Python journey so far.
+For the first time in more than 20 years, Python has overtaken Java, JavaScript, and C as the most popular programming language (according to the October 2021 release of the Tiobe index). As the dominant language for data science, not to mention the enticingly herpetological ring to its name, Python has been the subject of much of my current skills development. The following are a few portfolio pieces produced along my Python journey so far.
 
 - [Blackjack](https://github.com/Afrisnake/Coding-Blackjack-in-Python) (Portfolio piece - Games)
 - [Noughts and Crosses](https://github.com/Afrisnake/Coding-Noughts-and-Crosses-in-Python) (Portfolio piece - Games)
