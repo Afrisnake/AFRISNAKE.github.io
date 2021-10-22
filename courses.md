@@ -23,6 +23,10 @@ _Currently enrolled_
 365 Careers via Udemy, Inc.<br/>
 _Currently enrolled_
 
+- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/){:target="_blank"}<br/>
+Kirill Eremenko, Hadelin De Ponteves, SuperDataScience Support, Ligency Team, via Udemy, Inc.<br/>
+_Currently enrolled_
+
 - [The Ultimate Hands-On Hadoop: Tame Your Big Data!](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/){:target="_blank"}<br/>
 Frank Kane (Sundog Education) via Udemy, Inc.<br/>
 _Currently enrolled_
