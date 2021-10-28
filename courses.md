@@ -9,7 +9,7 @@ I am using the following materials to augment the Data Science skills transferra
 
 - [2021 Complete Python Bootcamp (From Zero to Hero in Python)](https://www.udemy.com/course/complete-python-bootcamp/){:target="_blank"}<br/>
 Jose Portilla (Pierian Data) via Udemy, Inc.<br/>
-_Currently enrolled_
+_Completed_
 
 - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/){:target="_blank"}<br/>
 Jose Portilla (Pierian Data) via Udemy, Inc.<br/>
